@@ -1,3 +1,3 @@
 # installo
 
-Computational Design Software for Architecture and Engineering
+installo is a computational design tool
